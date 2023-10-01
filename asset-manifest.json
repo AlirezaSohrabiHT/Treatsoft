@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.b36d27ea.css",
+    "main.js": "./static/js/main.5e78fecf.js",
+    "static/js/787.014cc510.chunk.js": "./static/js/787.014cc510.chunk.js",
+    "static/media/image 3.png": "./static/media/image 3.be6a04b5327196783190.png",
+    "static/media/image 5.png": "./static/media/image 5.0377d108a0dcdf0d4beb.png",
+    "static/media/Ellipse 7.png": "./static/media/Ellipse 7.a893238115fa96c4dc7a.png",
+    "static/media/image 12.png": "./static/media/image 12.467649187ce754c86420.png",
+    "static/media/Yekan.ttf": "./static/media/Yekan.f6a0838b6690eaaa2898.ttf",
+    "static/media/Yekan.eot": "./static/media/Yekan.9db58f99bcd38a0e67b6.eot",
+    "static/media/Yekan.woff": "./static/media/Yekan.18af8c75ab1951a5e56d.woff",
+    "static/media/Yekan.woff2": "./static/media/Yekan.a62bb3c8f209f478a9e5.woff2",
+    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "./index.html",
+    "static/media/Alt Arrow Down.svg": "./static/media/Alt Arrow Down.35c1331497f7fe7608634e56cf300854.svg",
+    "static/media/Line 3.svg": "./static/media/Line 3.cf270308741ff5542c8f2e7a9fcec5e3.svg",
+    "main.b36d27ea.css.map": "./static/css/main.b36d27ea.css.map",
+    "main.5e78fecf.js.map": "./static/js/main.5e78fecf.js.map",
+    "787.014cc510.chunk.js.map": "./static/js/787.014cc510.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b36d27ea.css",
+    "static/js/main.5e78fecf.js"
+  ]
+}
